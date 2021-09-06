@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "email": "test@email.com",
+      "mobile": "0954651154",
+      "salary": "$50"
+    },
+    {
+      "id": 3,
+      "email": "testing@gmail.com",
+      "mobile": "123456789",
+      "salary": "5612310"
+    },
+    {
+      "id": 4,
+      "firstName": "3rdTest",
+      "lastName": "testing",
+      "email": "testing@email.com",
+      "mobile": "123456789",
+      "salary": "3000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
